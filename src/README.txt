@@ -10,4 +10,4 @@ PSDT:
 Le dejé tambien una manera más sencilla del codigo en la carpeta Easy Python Code :)
 El codigo original es el main.py
 
-https://github.com/Saulnocap/CoffeMachine
+https://github.com/Saulnocap/Coffee-Machine
